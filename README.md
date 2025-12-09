@@ -33,6 +33,9 @@ tg交流群 https://t.me/+ft-zI76oovgwNmRh
 - **macOS Apple Silicon**: `ECHWorkers-darwin-arm64.zip`
 - **Linux x86_64**: `ECHWorkers-linux-amd64.tar.gz`
 - **Linux ARM64**: `ECHWorkers-linux-arm64.tar.gz`
+- **软路由 x86_64**: `ECHWorkers-linux-amd64-softrouter.tar.gz`
+- **软路由 ARM64**: `ECHWorkers-linux-arm64-softrouter.tar.gz`
+
 
 解压后直接运行：
 - **Windows**: 双击 `ECHWorkersGUI.exe` 启动 GUI，或运行 `ech-workers.exe` 使用命令行
